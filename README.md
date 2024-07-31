@@ -27,30 +27,10 @@ This will run the app in development mode. Open http://localhost:3000 to view it
    npm run build
 This will create a build folder with the production build of the app.
 
-5. **Folder Structure**
-The folder structure of the project is as follows:
-
-newsmonkey/
-├── node_modules/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── NavBar.js
-│   │   ├── NewsItem.js
-│   │   ├── Spinner.js
-│   │   └── ...
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
 
 
-6. **Contributing**
+
+5. **Contributing**
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1. Fork the Project
@@ -59,10 +39,10 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-7. **License**
+6. **License**
 Distributed under the MIT License. See LICENSE for more information.
 
-8. **Contact**
+7. **Contact**
 Your Name - https://www.linkedin.com/in/muhammad-faisal22/ - faisal.mr333@gmail.com
 
 
